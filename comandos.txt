@@ -1,0 +1,8 @@
+0. Instalar python 3 en el equipo
+1. abrir una terminal dentro de la carpeta descargada "firmas"
+2. ejecutar en la terminal: python3 -m venv mi_entorno
+3. ejecutar en la terminal: source mi_entorno/bin/activate
+4. ejecutar en la terminal: pip install pillow pandas
+5. ejecutar en la terminal: python script.py
+
+Los png quedan en la carpeta firmas.
